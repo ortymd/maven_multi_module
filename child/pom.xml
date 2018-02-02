@@ -7,9 +7,9 @@
 	</parent>
 	
   <modelVersion>4.0.0</modelVersion>
-	<groupId>com.epam.training</groupId>
+<!--	<groupId>com.epam.training</groupId> -->
 	<artifactId>child</artifactId>
-	<version>1.0</version>
+	<!-- <version>1.0</version> -->
 	<packaging>jar</packaging>
 
   <properties>

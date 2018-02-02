@@ -1,8 +1,8 @@
-Create a Multi module project
-Create a parent pom using packaging type pom.
-Make your jar project a child of this parent project
-Organize the directory structure correctly.
-Add a modules entry into your parent project.
-Add a parent element to your child project.
-Inherit the groupId and version of your child project from the parent by deleting the respective elements from your child project pom.
-Run a package build from the parent project and make sure everything is still building correctly.
++Create a Multi module project
++Create a parent pom using packaging type pom.
++Make your jar project a child of this parent project
++Organize the directory structure correctly.
++Add a modules entry into your parent project.
++Add a parent element to your child project.
++Inherit the groupId and version of your child project from the parent by deleting the respective elements from your child project pom.
++Run a package build from the parent project and make sure everything is still building correctly.
